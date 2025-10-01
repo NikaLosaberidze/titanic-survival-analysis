@@ -2,7 +2,7 @@
 
 ## Overview
 This project explores the famous Titanic dataset to uncover factors that influenced passenger survival.  
-The analysis includes data cleaning, visualization, and insights — demonstrating practical **data science and analysis skills**.
+The analysis includes data cleaning, visualization, and insights.
 
 ## Key Insights
 - **Women survived at much higher rates** than men.
