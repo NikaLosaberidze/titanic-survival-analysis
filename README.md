@@ -33,5 +33,5 @@ titanic-analysis/
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/titanic-analysis.git
+   git clone https://github.com/NikaLosaberidze/titanic-analysis.git
    cd titanic-analysis
