@@ -21,7 +21,7 @@ titanic-analysis/
 │   └── correlation_heatmap.png
 │── Titanic_Analysis.ipynb      # Jupyter Notebook
 │── README.md
-
+```
 
 
 ## Tools Used
