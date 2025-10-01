@@ -10,22 +10,22 @@ The analysis includes data cleaning, visualization, and insights — demonstrati
 - **Children (younger age groups)** were more likely to survive than adults.
 - **Higher ticket fares** correlated with higher survival.
 
-## Project Structure
+```text
 titanic-analysis/
-│── images/ # Saved plots
-│ ├── survival_by_sex.png
-│ ├── survival_by_class.png
-│ ├── survival_by_alone.png
-│ ├── age_distribution.png
-│ ├── fare_boxplot.png
-│ └── correlation_heatmap.png
-│── Titanic_Analysis.ipynb # Jupyter Notebook
+│── images/                     # Saved plots
+│   ├── survival_by_sex.png
+│   ├── survival_by_class.png
+│   ├── survival_by_alone.png
+│   ├── age_distribution.png
+│   ├── fare_boxplot.png
+│   └── correlation_heatmap.png
+│── Titanic_Analysis.ipynb      # Jupyter Notebook
 │── README.md
 
 
 
 ## Tools Used
-- Python 🐍
+- Python 
 - Pandas (data manipulation)
 - Matplotlib & Seaborn (visualization)
 - Jupyter Notebook
